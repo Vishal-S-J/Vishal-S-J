@@ -45,5 +45,5 @@ An open-source library for data visualization in Python.
 
 ## Contact
 - **Email**: [vsjjadhav99@gmail.com](mailto:vsjjadhav99@gmail.com)
-- **LinkedIn**: [linkedin.com/in/johndoe](http://linkedin.com/in/johndoe)
+- **LinkedIn**: [linkedin.com/in/Vishal_Jadhav](https://www.linkedin.com/in/vishal-jadhav-0b1237231)
 - **GitHub**: [github.com/johndoe](http://github.com/johndoe)
