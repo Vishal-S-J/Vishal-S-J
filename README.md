@@ -62,7 +62,8 @@ Boot, Hibernate, Oracle SQL, MySQL, Spring MVC
 - Payments types as Pain001, Pacs008, Pacs009, Pacs004, Pacs002, Pacs028, Camt055, Camt056, Camt029, Camt004, Camt003, Camt054.
 
 ## Publications / Certificates
-
+![Certificate : Introduction To Payments](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Introduction_To_Payments.jpg "image1"=20%)
+![Certificate : Swift Message MT and MX](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Swift_Messages_MT_and_MX.jpg "image1"=20%)
 
 ## Contact
 - **Email**: [vsjjadhav99@gmail.com](mailto:vsjjadhav99@gmail.com)
