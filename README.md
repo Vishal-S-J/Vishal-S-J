@@ -8,6 +8,10 @@ Hi, I'm Vishal Jadhav. I'm a software engineer with a passion for Learning codin
 - **Tools**: Git.
 - **Database**: MySQL, OracleSQL, MongoDB.
 
+Java, Data Structure and Algorithm (DSA), Low Level 
+Design (LLD), HTML5, CSS3, Servlet, Spring, Spring 
+Boot, Hibernate, Oracle SQL, MySQL, Spring MVC
+
 ## Experience
 ### Software Engineer at Xoriant Corporation
 *December 2020 - Present*
