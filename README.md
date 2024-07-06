@@ -63,4 +63,4 @@ Hi, I'm Vishal Jadhav. I'm a software engineer with a passion for Learning codin
 ## Contact
 - **Email**: [vsjjadhav99@gmail.com](mailto:vsjjadhav99@gmail.com)
 - **LinkedIn**: [linkedin.com/in/Vishal_Jadhav](https://www.linkedin.com/in/vishal-jadhav-0b1237231)
-- **Profile**: [VishalJadhav.com/profile](https://github.com/Vishal-S-J)
+- **Profile**: [VishalJadhav.com/profile](https://vishal-s-j.github.io/)
