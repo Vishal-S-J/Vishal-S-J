@@ -1,7 +1,4 @@
 # Vishal Jadhav
-
-![Profile Picture](http://example.com/profile.jpg)
-
 ## About Me
 Hi, I'm Vishal Jadhav. I'm a software engineer with a passion for Learning coding languages and a love for learning new technologies. I am quite adept in programming, DSA and problem solving. I am eager to make a positive impact with my collaboration, communication and programming skills.
 
