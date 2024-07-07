@@ -43,8 +43,8 @@ Boot, Hibernate, Oracle SQL, MySQL, Spring MVC
 - The solution helps financial institutions of every size manage all payment types, both within and across national borders.
 - In this project I have worked on 4 Methods of Payments **BOOK, Swift, Target2 and Euro1** using High Value Payments in MX format for End to End payment flow for outgoing, incoming, and both of its Return flow.
 
-### Finastra HV Fusion Transform (High Value Payments + Otoma Migration)
-#### Client : Finastra : : Duration : 1 Year 3 Months
+### Finastra HV Fusion Transform (High Value Payments)
+#### Client : Finastra : : Duration : 1 Year 2 Months
 - In this project I have worked on 4 Methods of Payments as **BOOK, Swift, Target2 and Euro1** using High Value Payments Both in MT and MX format.
 - All The payments in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct And Cover, Service Message.
 - Payments types as Pain001, Pacs008, Pacs009, Pacs004, MT103, Camt055, Camt056, Camt029, Camt028, MT192, MT196, MT195, MT202Cov, MT103Dir.
@@ -60,6 +60,12 @@ Boot, Hibernate, Oracle SQL, MySQL, Spring MVC
 - In this project I have worked on Methods of Payments as **BOOK and TIPS**.
 - All The payments in in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct and Cover, Service Message.
 - Payments types as Pain001, Pacs008, Pacs009, Pacs004, Pacs002, Pacs028, Camt055, Camt056, Camt029, Camt004, Camt003, Camt054.
+
+### Finastra HV Fusion Transform (Otoma Migration)
+#### Client : Finastra : : Duration : 4 Months
+- In this project I have worked on 2 Methods of Payments as **BOOK and Swift** using High Value Payments Both in MT and MX format.
+- All The payments in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct And Cover, Service Message.
+- Payments types as Pain001, Pacs008, Pacs009, Pacs004, MT103, Camt055, Camt056, Camt029, Camt028, MT192, MT196, MT195, MT202Cov, MT103Dir.
 
 ## Publications / Certificates
 | ![Certificate : Introduction To Payments](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Introduction_To_Payments.jpg) | ![Certificate : Swift Message MT and MX](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Swift_Messages_MT_and_MX.jpg) |
