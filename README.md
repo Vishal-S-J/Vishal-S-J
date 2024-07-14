@@ -24,13 +24,13 @@ Hello All, my name is Vishal Jadhav and I am a Software Engineer. I have complet
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Language
-![JAVA](https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=windows&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-F80000?style=for-the-badge&logo=windows&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=java&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-F80000?style=for-the-badge&logo=J2EE&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=SQL&logoColor=white)
 
 ### Database
 ![Oracle db](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![MySQL]()
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ Hello All, my name is Vishal Jadhav and I am a Software Engineer. I have complet
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### API Tools
-![Soap UI]()
+![Soap UI](https://img.shields.io/badge/Soap_UI-6DB33F?style=for-the-badge&logo=Soap_ui&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ### Build Tools
