@@ -1,77 +1,62 @@
-# Vishal Jadhav
-## About Me
-Hi, I'm Vishal Jadhav. I'm a software engineer with a passion for Learning coding languages and a love for learning new technologies. I am quite adept in programming, DSA and problem solving. I am eager to make a positive impact with my collaboration, communication and programming skills.
+# Hello World I am Vishal
+
+Hello All, my name is Vishal Jadhav and I am a Software Engineer. I have completed Bachleor of Engineering in Computer Science. My Technology involves Java/J2EE, Spring, Maven, Hibernate, MySQL, Javascript, HTML and CSS. I have immense interst in programming if I have one job I am always intrested in other. <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vishal-S-J&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Vishal-S-J" style="padding-right:20px;" />
+</p>
+
+## 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/Vishal-S-J)](https://github.com/Vishal-S-J) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishal-jadhav-0b1237231)](https://www.linkedin.com/in/vishal-jadhav-0b1237231)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vsjjadhav99@gmail.com)](mailto:vsjjadhav99@gmail.com)
 
 ## Skills
-- **Programming Languages**: Java, Python, JavaScript, C++.
-- **Frameworks**: React, Node.js, Django.
-- **Tools**: Git.
-- **Database**: MySQL, OracleSQL, MongoDB.
+### Tools
+![IntellIJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-Java, Data Structure and Algorithm (DSA), Low Level 
-Design (LLD), HTML5, CSS3, Servlet, Spring, Spring 
-Boot, Hibernate, Oracle SQL, MySQL, Spring MVC
+### Version Control Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Experience
-### Software Engineer at Xoriant Corporation
-*December 2020 - Present*
+### Operating System
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Total of 2.5 years of Experience as Software Engineer. 
-- Having Good knowledge of Banking domain (Swift payments GPP), Java, OOP’s and DSA.
-- Collaborating with client’s team of professionals to ramp up the speed.
-- Successfully completing each project.
-- Resource full Team player capable of delivering tasks withing timeline.
-- Strong analytical and debugging skills.
+### Language
+![JAVA](https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=windows&logoColor=white)
+![J2EE](https://img.shields.io/badge/J2EE-F80000?style=for-the-badge&logo=windows&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Database
+![Oracle db](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![MySQL]()
 
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Education
-### Bachelor of Engineering (B.E.) in Computer Science
-*Sinhgad Academy Of Engineering, Pune, Maharashtra, 2020 (6.69 CGPA)*
+### API Tools
+![Soap UI]()
+![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### HSC (12<sup>th</sup>)
-*Mahatma Gandhi College Ahmedpur, Latur Board, Maharashtra 2015 (78.15%)*
+### Build Tools
+![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-### SSC (10<sup>th</sup>)
-*Vidhya Vardhini English High School, Udgir, Latur, Maharashtra 2013 (83.45%)*
+### Framework	
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring MVC](https://img.shields.io/badge/SPRING_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-
-## Projects
-### GPP End to End High Value Payments 
-#### Client : Finastra : : Duration : 5 Months
-- Finastra Global PAYplus provides the broadest and deepest suite of domestic and Cross-Border payment services, delivered on an Open Platform for innovation and transformation.
-- The solution helps financial institutions of every size manage all payment types, both within and across national borders.
-- In this project I have worked on 4 Methods of Payments **BOOK, Swift, Target2 and Euro1** using High Value Payments in MX format for End to End payment flow for outgoing, incoming, and both of its Return flow.
-
-### Finastra HV Fusion Transform (High Value Payments)
-#### Client : Finastra : : Duration : 1 Year 2 Months
-- In this project I have worked on 4 Methods of Payments as **BOOK, Swift, Target2 and Euro1** using High Value Payments Both in MT and MX format.
-- All The payments in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct And Cover, Service Message.
-- Payments types as Pain001, Pacs008, Pacs009, Pacs004, MT103, Camt055, Camt056, Camt029, Camt028, MT192, MT196, MT195, MT202Cov, MT103Dir.
-
-### Finastra Model Bank FED Payments (FP)
-#### Client : Finastra : : Duration : 4 Months
-- In this project I have worked on Methods of Payments as **BOOK and FED**.
-- All The payments in Bank Transfer (BTR), Customer Transfer (CTR), Drawdown Request and Response, Service Message.
-- Payments types as 1000, 1001, 1002, 1007, 1008, 1031, 1032, 1033, 1600, 1601, 1602, 1631, 1632, 1608, 1607, 1633.
-
-### Finastra Model Bank Immediate Payments (IP TIPS)
-#### Client : Finastra : : Duration : 2 Months
-- In this project I have worked on Methods of Payments as **BOOK and TIPS**.
-- All The payments in in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct and Cover, Service Message.
-- Payments types as Pain001, Pacs008, Pacs009, Pacs004, Pacs002, Pacs028, Camt055, Camt056, Camt029, Camt004, Camt003, Camt054.
-
-### Finastra HV Fusion Transform (Otoma Migration)
-#### Client : Finastra : : Duration : 4 Months
-- In this project I have worked on 2 Methods of Payments as **BOOK and Swift** using High Value Payments Both in MT and MX format.
-- All The payments in Outgoing, Incoming, Cancellation payments and services, Return, Reject, Direct And Cover, Service Message.
-- Payments types as Pain001, Pacs008, Pacs009, Pacs004, MT103, Camt055, Camt056, Camt029, Camt028, MT192, MT196, MT195, MT202Cov, MT103Dir.
+### Others	
+Low and High Level Design, DSA, OOP’s, GPP, Swift 
 
 ## Publications / Certificates
 | ![Certificate : Introduction To Payments](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Introduction_To_Payments.jpg) | ![Certificate : Swift Message MT and MX](https://github.com/Vishal-S-J/Vishal-S-J/blob/main/Images/Swift_Messages_MT_and_MX.jpg) |
 |:---:|:---:|
 
-## Contact
-- **Email**: [vsjjadhav99@gmail.com](mailto:vsjjadhav99@gmail.com)
-- **LinkedIn**: [linkedin.com/in/Vishal_Jadhav](https://www.linkedin.com/in/vishal-jadhav-0b1237231)
-- **Profile**: [VishalJadhav.com/profile](https://vishal-s-j.github.io/)
+## Most Used Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-S-J&width=500)
